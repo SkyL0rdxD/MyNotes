@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+celery
+redis
+chromadb
+openai
+pymupdf
+langchain-text-splitters
+python-multipart
+python-dotenv
